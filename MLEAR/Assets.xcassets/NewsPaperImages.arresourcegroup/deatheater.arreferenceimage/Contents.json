@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "deatheater.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 19.439999999999998
+  }
+}

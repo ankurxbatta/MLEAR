@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "00.arreferenceimage"
+    },
+    {
+      "filename" : "11.arreferenceimage"
+    },
+    {
+      "filename" : "12.arreferenceimage"
+    },
+    {
+      "filename" : "13.arreferenceimage"
+    },
+    {
+      "filename" : "14.arreferenceimage"
+    },
+    {
+      "filename" : "15.arreferenceimage"
+    },
+    {
+      "filename" : "16.arreferenceimage"
+    },
+    {
+      "filename" : "17.arreferenceimage"
+    },
+    {
+      "filename" : "18.arreferenceimage"
+    },
+    {
+      "filename" : "19.arreferenceimage"
+    },
+    {
+      "filename" : "20.arreferenceimage"
+    }
+  ]
+}
