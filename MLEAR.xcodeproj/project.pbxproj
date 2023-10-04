@@ -14,18 +14,8 @@
 		1B03BC9D299435B7008A3D40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B03BC9C299435B7008A3D40 /* Assets.xcassets */; };
 		1B03BCA0299435B7008A3D40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B03BC9E299435B7008A3D40 /* LaunchScreen.storyboard */; };
 		1B03BCAB29943AA1008A3D40 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B03BCAA29943AA1008A3D40 /* harrypotter.mp4 */; };
-		1B047D422A04166F0052C86B /* 18.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D382A04166F0052C86B /* 18.mp4 */; };
-		1B047D432A04166F0052C86B /* 16.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D392A04166F0052C86B /* 16.mp4 */; };
-		1B047D442A04166F0052C86B /* 19.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3A2A04166F0052C86B /* 19.mp4 */; };
-		1B047D452A04166F0052C86B /* 13.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3B2A04166F0052C86B /* 13.mp4 */; };
-		1B047D462A04166F0052C86B /* 15.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3C2A04166F0052C86B /* 15.mp4 */; };
-		1B047D472A04166F0052C86B /* 12.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3D2A04166F0052C86B /* 12.mp4 */; };
-		1B047D482A04166F0052C86B /* 17.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3E2A04166F0052C86B /* 17.mp4 */; };
-		1B047D492A04166F0052C86B /* 20.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D3F2A04166F0052C86B /* 20.mp4 */; };
-		1B047D4A2A04166F0052C86B /* 11.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D402A04166F0052C86B /* 11.mp4 */; };
-		1B047D4B2A04166F0052C86B /* 14.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B047D412A04166F0052C86B /* 14.mp4 */; };
+		1B183C922ACDB4D10073F8C3 /* 2001200.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B183C912ACDB4D00073F8C3 /* 2001200.mp4 */; };
 		1B46E9F1299B52E10004C1D3 /* deatheater.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1B46E9F0299B52E10004C1D3 /* deatheater.mp4 */; };
-		1BEA2CE02A0429FA00037204 /* 00.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1BEA2CDF2A0429FA00037204 /* 00.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,18 +27,8 @@
 		1B03BC9C299435B7008A3D40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B03BC9F299435B7008A3D40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B03BCAA29943AA1008A3D40 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
-		1B047D382A04166F0052C86B /* 18.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 18.mp4; path = ../../Encyclopedio/18.mp4; sourceTree = "<group>"; };
-		1B047D392A04166F0052C86B /* 16.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 16.mp4; path = ../../Encyclopedio/16.mp4; sourceTree = "<group>"; };
-		1B047D3A2A04166F0052C86B /* 19.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 19.mp4; path = ../../Encyclopedio/19.mp4; sourceTree = "<group>"; };
-		1B047D3B2A04166F0052C86B /* 13.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 13.mp4; path = ../../Encyclopedio/13.mp4; sourceTree = "<group>"; };
-		1B047D3C2A04166F0052C86B /* 15.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 15.mp4; path = ../../Encyclopedio/15.mp4; sourceTree = "<group>"; };
-		1B047D3D2A04166F0052C86B /* 12.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 12.mp4; path = ../../Encyclopedio/12.mp4; sourceTree = "<group>"; };
-		1B047D3E2A04166F0052C86B /* 17.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 17.mp4; path = ../../Encyclopedio/17.mp4; sourceTree = "<group>"; };
-		1B047D3F2A04166F0052C86B /* 20.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 20.mp4; path = ../../Encyclopedio/20.mp4; sourceTree = "<group>"; };
-		1B047D402A04166F0052C86B /* 11.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 11.mp4; path = ../../Encyclopedio/11.mp4; sourceTree = "<group>"; };
-		1B047D412A04166F0052C86B /* 14.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 14.mp4; path = ../../Encyclopedio/14.mp4; sourceTree = "<group>"; };
+		1B183C912ACDB4D00073F8C3 /* 2001200.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 2001200.mp4; sourceTree = "<group>"; };
 		1B46E9F0299B52E10004C1D3 /* deatheater.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = deatheater.mp4; path = ../../Assets/deatheater.mp4; sourceTree = "<group>"; };
-		1BEA2CDF2A0429FA00037204 /* 00.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 00.mp4; path = ../../Encyclopedio/00.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,17 +69,7 @@
 				1B03BC99299435B7008A3D40 /* Main.storyboard */,
 				1B03BC9C299435B7008A3D40 /* Assets.xcassets */,
 				1B03BC9E299435B7008A3D40 /* LaunchScreen.storyboard */,
-				1B047D402A04166F0052C86B /* 11.mp4 */,
-				1B047D3D2A04166F0052C86B /* 12.mp4 */,
-				1B047D3B2A04166F0052C86B /* 13.mp4 */,
-				1B047D412A04166F0052C86B /* 14.mp4 */,
-				1B047D3C2A04166F0052C86B /* 15.mp4 */,
-				1B047D392A04166F0052C86B /* 16.mp4 */,
-				1B047D3E2A04166F0052C86B /* 17.mp4 */,
-				1B047D382A04166F0052C86B /* 18.mp4 */,
-				1B047D3A2A04166F0052C86B /* 19.mp4 */,
-				1B047D3F2A04166F0052C86B /* 20.mp4 */,
-				1BEA2CDF2A0429FA00037204 /* 00.mp4 */,
+				1B183C912ACDB4D00073F8C3 /* 2001200.mp4 */,
 			);
 			path = MLEAR;
 			sourceTree = "<group>";
@@ -162,23 +132,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B047D4A2A04166F0052C86B /* 11.mp4 in Resources */,
-				1B047D482A04166F0052C86B /* 17.mp4 in Resources */,
 				1B03BC96299435B7008A3D40 /* art.scnassets in Resources */,
 				1B03BCA0299435B7008A3D40 /* LaunchScreen.storyboard in Resources */,
-				1B047D462A04166F0052C86B /* 15.mp4 in Resources */,
-				1BEA2CE02A0429FA00037204 /* 00.mp4 in Resources */,
 				1B46E9F1299B52E10004C1D3 /* deatheater.mp4 in Resources */,
 				1B03BCAB29943AA1008A3D40 /* harrypotter.mp4 in Resources */,
-				1B047D432A04166F0052C86B /* 16.mp4 in Resources */,
-				1B047D452A04166F0052C86B /* 13.mp4 in Resources */,
-				1B047D422A04166F0052C86B /* 18.mp4 in Resources */,
-				1B047D4B2A04166F0052C86B /* 14.mp4 in Resources */,
-				1B047D472A04166F0052C86B /* 12.mp4 in Resources */,
+				1B183C922ACDB4D10073F8C3 /* 2001200.mp4 in Resources */,
 				1B03BC9D299435B7008A3D40 /* Assets.xcassets in Resources */,
-				1B047D442A04166F0052C86B /* 19.mp4 in Resources */,
 				1B03BC9B299435B7008A3D40 /* Main.storyboard in Resources */,
-				1B047D492A04166F0052C86B /* 20.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
